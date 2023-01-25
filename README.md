@@ -1,6 +1,6 @@
 ![IUT Image](Autre/Univ_Aix-Marseille_-_IUT.svg.png)
-# S1_IUT-amu
-Cours en B.U.T informatique à l'IUT d'Aix-en-Provence Semestre 1
+# S2_IUT_amu
+Cours en B.U.T informatique à l'IUT d'Aix-en-Provence Semestre 2
 
 
 ## Téléchargement
