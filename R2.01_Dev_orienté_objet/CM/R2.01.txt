@@ -1,0 +1,33 @@
+Développement orienté objet
+
+
+---- 24/01/23
+
+Introduction : 
+	50h donc ne pas négliger; transparents prof = synthèse; https://tinyurl.com/mtz6w63a avec des liens depuis les transparents pour approfondir
+	Javadoc pour acquérir de l'éxperience; désapprendre la tape au clavier ( tape dactylo ); se poser des questions sur le cours et les élements et aller vérifier; lien important: docs.oracle.com/javase/tutorial/index.html adventofcode codingame codewar -> jeu de prog; entretien : programme et après on discute; trouver des projets opensources (github, gitlab, bitbucket, sourceforge, etc); forge = projets opensources ou l'on peut push
+	Outils imposé: 
+		Linux, éditeur de texte, JDK 17 ou >= 8, JRE mm version que le JDK, Eclipse, StarUML, Github + Github classroom
+	Sur machine perso, installer entre les cours MAIS examen sur machine de l'IUT.
+	Prof créer le compte Github PrenomNom; Note globale Travaux Dirigés Pratiques (TDP) (= TP non dédoublés) : qualité et quantité, note d'examen final sur machine; Évaluation comme pour examn d'entreprise
+	But:
+		Se concentrer et programmer, programmer et programmer
+		Utilisation Java et UML
+		Si on est distrait, faut apprendre a se concentrer !!! C'est en forgeant qu'on devient forgeront
+
+	Pour maîtriser le langage : la syntaxe + l'Interface de Programmation d'Application (API), pour ne pas réinventer la roue (JavaDoc) 
+	Privilégié les API qui existe pour tout le monde pour partager un projet facilement. Eviter les API perso
+
+Langage compilé :
+	A partir du code visible on produit une séquence d'instructions en binaire. Différents pour chaque proc. Java applique une machine virtuel pour éviter l'incompatibilité des proc (bytecode) et compiler pour la bonne architechture. Code source -> bytecode -> machine virtuel interprète le code (à la volé) -> bytecode interprété en binaire.
+	D'abord faire a la main toute la compile avec bytecode dans le terminal etc. 
+	Langage fortement typé statiquement au moment de la compile + sensible a la casse (String et pas string)
+	Type = domaine de definition / domaine de valeur + un ensemble d'opération
+	Constante entièrement en majuscule et classe avec maj au début et variable en camelCase
+	Attention pluriel et singulier de la sémantique des variables. Se familiariser avec cette différence.
+	Familles de types de données:
+		- type primitif: int, double, etc
+		- type références: les objets, les tableaux
+	Java est codé en C/C++ donc primitif car sont les type de base de ces langagesLanguage
+	Transtypage type casting = erreur de compilation => type dynamique; Pas transtypé sans vérifier
+	+ est surchargé = différentes opérations en fonction de l'opérante
