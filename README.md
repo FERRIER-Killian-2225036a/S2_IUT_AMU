@@ -18,8 +18,6 @@ gh repo clone killianFerrierf22012793/S2_IUT_AMU
 
 ## Extra
 [Dossier autre](Autre)
-<br />
-[Notes Cours](note)
 
 ## Crédits
 *author: Killian Ferrier*
