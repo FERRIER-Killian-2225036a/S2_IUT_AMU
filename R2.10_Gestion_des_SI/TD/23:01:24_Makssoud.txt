@@ -1,0 +1,91 @@
+Introduction:
+	relever les termes:
+		comptabilité
+		mouvement d'especes 
+		encaissement / décaissement
+		argent
+		coffre de l'entreprise
+		Montants fournisseurs
+		recouvrir
+		Cleances
+		relevés de comtpe
+		dettes
+		etat des comptes
+		situation patrimoniale
+		virements
+		comité d'entreprise / syndicaux
+		bilan
+		Participation fruits de l'expention
+		benefice
+		actionnaires (dividende)
+		TVA
+		Impots
+		control fiscal
+		systeme sensoriel
+	Synthèse - Définition comptabilité : 
+		La comptabilité est l'ensemble des techniques et des procédures permettant de suivre l'argent (mouvement d'espèces) qui entre (encaissement) et qui sort (décaissement) d'une entreprise. Elle permet de tenir à jour les comptes (relevés de compte) de l'entreprise, de connaître sa situation patrimoniale (état des comptes) et de calculer son bénéfice. Elle prend en compte les dépenses (montants fournisseurs) et les recettes (remboursements, encaissements), les dettes (dettes) et les crédits (virements) et permet de suivre les différentes taxes (TVA, impôts) et les contrôles fiscaux. Elle peut également inclure la participation des employés (comité d'entreprise, syndicaux) et la répartition des bénéfices entre les actionnaires (dividende, participation aux fruits de l'expansion). Le bilan est un document de synthèse de la comptabilité qui donne une vue globale de la situation financière de l'entreprise.
+
+Entrée en matière:
+	est un ensemble organisé de ressources materiels, logiciels, humaines, de données, qui permet d'aquérir, de mémoriser, de traiter et de communiquer des informations. Le système d'info. comptable (SIC) est un sous-ensemble du SI. Il est destiné a organiser et contrôler la production d'informations comptables, fiscales, financières et sociales. L'évolu. techno. et l'informatisation ont permis d'automatiser et de faciliter de nombreux travaux comptable et les tâches d'executions sont progressivement remplacé par des tâches de contrôles ou a plus forte valeurs ajoutées. Et cela se fait notement par la mise en place de progiciels de gestion intégré (PGI).
+	Il y a deux instruments en compta. utilisé par les entreprises pour établir l'état financier de leurs activités et étudier leurs réussites et leurs performances.
+	- La comptabilité générale ou financière : elle traite les informations financières. Elle est obligatoire.
+	- La comptabilité analytique ou de gestion : chaque entreprises peut analyser plus précisement les informations financières en fonction de leurs besoins. Elle n'est pas obligatoire => elle est la pour aider les entreprise (cela reste en interne).
+
+	La première mission de la compta. est de deter. la performance éco. d'une entreprise = le compte de résultat. La deuxième va être de raconter l'histoire de l'entreprise, raconter son patrimoine, d'un côté ce que l'entrep. possède et de l'autre ce qu'elle doit = le bilan.
+	La compta. sert a la fois a produire le bilan et le compte de résultat. 
+
+	Finalités internes:
+		Elle apporte des renseignements précis sur l'état de santé financière de l'entreprise tel que le chiffre d'affaire, le résultat, le montant des investissement. Elle constitue la mémoire d'une entreprise. De plus, elle permet aux dirigeants de prendre des décisions : 
+		- Oppérationnelle : prise par les exécutants a court terme ( - de 2 ans )
+		- Tactique : prise par les encadrements supérieur a moyen terme ( 2 à 5 ans )
+		- Stratégique : prise par le plus haut niveau hiérarchique qui engage l'entreprise au long terme
+	Finalités externes : 
+		Plan juridique: Elle sert de preuve dans le cadre des échanges marchant entre l'orga. et ses partenaires
+		Plan fiscale : deter. les impôts dû à l'état
+		Plan de comm. : alimenter des bases d'info. publique afin de renseigner les tiers sur la situations de l'entreprise
+
+	Parties prenantes :
+		L'état : 
+			Les impôts ont besoin du bilan. L'administration fiscale est très vigilente a ce que les comta. d'entreprise soit juste, cohérente, etc... c'est pour cette raison que le bilan est vérifié par un expert comptable.
+		La banque :
+			Savoir si l'entreprise est en mesure de rembourser ses emprunts. 
+		Les investisseurs :
+			Les invest. comme les business angels sont des personnes physiques qui décident d'investir une partie de leur patrimoine ou comme des fond d'investissement qui ont la même philosophie.
+		Les clients :
+			Connaître l'état de santé financier d'une entrep. afin de mesurer la notoriété d'une entrep. 
+		L'INCE : 
+			Établir des stat. nationnales
+		Les salarier :
+			Avoir une idée sur la santé de l'entrep. et la périnité des emplois
+		L'entrep. elle mm :
+			Piloter son activité, savoir ce qu'il s'est passé avant, ce qui se passe maintenant et prendre des stratégies pour le future = passé, présent, future
+	
+	Principes de normalisation de l'information financière :
+		Sur le plan nationnal :
+			L'autorité des normes comptable (ANC) fixe les règles de la compta. que l'on retrouve dans le plan comptable générale (PCG) et le code de commerce. Le PCG précise avec exactitude la forme et le fond que doit prendre un compte de résultat, un bilan. Il récapitule également les grands principes comptable a respecter.
+		Sur le plan internationnal : 
+			Le dev. des échanges a conduit a la création de normes comptable au niveau mondiale, de norme pour les entrep. cotés en Europe et de normes applicable aux USA.
+	
+	Quels sont les objectifs de la normalisation de la compta. : 
+		- Donner une image fidèle de l'entrep. 
+		- L'appilcation de règles commune facilite la communication entre les entreprises 
+		- Utilisation d'un language commun entre les entreprises pour faciliter les échanges
+
+	Bilan :
+		La compta. est quelque chose de très précis qui doit être élaborer au jour le jour et chaque opérations devra faire l'objet d'un enregistrement comptable.
+
+Chaque fin de chapitre = QCM
+
+Séance 1 - Introduction a la comptabilité
+
+	I - La notion de patrimoine
+
+		1. Le patrimoine : 
+			// réel d'une personne ou sa fortune correspond a la valeur des biens qu'elle possède moins ses dettes. Elle peut avoir pour origine un héritage par exemple ou plus simplement les économies réalisé par la personne qui le détient. 
+			Patrimoine = valeur des biens - dettes 
+			Exercice 1 sur feuille
+		2. L'évolution du patrimoine 
+			Toutes les opétations a catactère financier réalisé par une personne modifie son patrimoine. Selon le cas, elles peuvent en modifier la composition ou en modifier la valeur
+			a. L'évolution de la composition du patrimoine
+				Exercice 2 sur feuille
+				Observation : la valeur du patrimoine n'a pas changé mais la composition n'est plus la même + toutes opérations modifient au moins 2 éléments du patrimoine. Si retrait au distrib. - d'argent a la banque mais + dans le porte feuille

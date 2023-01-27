@@ -1,8 +1,3 @@
-Développement orienté objet
-
-
----- 24/01/23
-
 Introduction : 
 	50h donc ne pas négliger; transparents prof = synthèse; https://tinyurl.com/mtz6w63a avec des liens depuis les transparents pour approfondir
 	Javadoc pour acquérir de l'éxperience; désapprendre la tape au clavier ( tape dactylo ); se poser des questions sur le cours et les élements et aller vérifier; lien important: docs.oracle.com/javase/tutorial/index.html adventofcode codingame codewar -> jeu de prog; entretien : programme et après on discute; trouver des projets opensources (github, gitlab, bitbucket, sourceforge, etc); forge = projets opensources ou l'on peut push
