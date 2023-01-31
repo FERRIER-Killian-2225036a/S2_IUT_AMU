@@ -89,3 +89,31 @@ Séance 1 - Introduction a la comptabilité
 			a. L'évolution de la composition du patrimoine
 				Exercice 2 sur feuille
 				Observation : la valeur du patrimoine n'a pas changé mais la composition n'est plus la même + toutes opérations modifient au moins 2 éléments du patrimoine. Si retrait au distrib. - d'argent a la banque mais + dans le porte feuille
+
+TKP Industries:
+	300000€ de capital de départ
+	Exercice : Lister tout le materiel + biens dont on a besoin pour démarrer entrep. 
+		Locaux
+		Materiel -> médical/informatique
+		Production des prothèses
+		Chaine logistique
+		Recherche
+		Marketing
+		Salariés -> Employés médicaux
+		Sécurité -> Mercenaires
+		Avocats
+		Maintenance -> materiel
+		Sécurité sociale
+		Impôts
+		Actif:
+			Stock
+			Compte en banque
+			Caisse
+			Mobilié
+			Machine
+			Font commercial
+		Passif:
+			Apport de l'entrepreneur
+			emprunt a la banque
+			sommes dues aux fournisseurs
+			crédits
