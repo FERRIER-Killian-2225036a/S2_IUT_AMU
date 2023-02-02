@@ -50,4 +50,26 @@ wireless = sans file
 worn on = fonctionner
 
 Phrasal verbs = verb+particle
-10 - 15
+
+clock in = pointer pour arriver
+clock out = pointer pour partir
+connect up = se connecter
+dial up = composer un numéro
+exit out = quitter
+
+filter out =  filter ce qu'on voit
+freeze up = se figer
+go offline = se déconnecter
+go online = se connecter
+hack into = someone tried to hack account
+
+hang up = déccrocher 
+hold on = 
+hook into = 
+hook up =
+
+key in = saisir
+link up = relier
+log in = ouvrir session
+log out = fermer session
+log up = se connecter a une session
