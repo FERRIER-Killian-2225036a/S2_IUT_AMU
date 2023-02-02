@@ -1,0 +1,27 @@
+TKP Industries:
+	300000€ de capital de départ
+	Exercice : Lister tout le materiel + biens dont on a besoin pour démarrer entrep. 
+		Locaux
+		Materiel -> médical/informatique
+		Production des prothèses
+		Chaine logistique
+		Recherche
+		Marketing
+		Salariés -> Employés médicaux
+		Sécurité -> Mercenaires
+		Avocats
+		Maintenance -> materiel
+		Sécurité sociale
+		Impôts
+		Actif:
+			Stock
+			Compte en banque
+			Caisse
+			Mobilié
+			Machine
+			Font commercial
+		Passif:
+			Apport de l'entrepreneur
+			emprunt a la banque
+			sommes dues aux fournisseurs
+			crédits
