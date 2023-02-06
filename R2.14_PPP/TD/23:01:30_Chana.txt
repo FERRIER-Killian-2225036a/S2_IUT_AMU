@@ -36,7 +36,7 @@ Introduction
 
 Dossier PPP :
 	I. Ma présentation
-		a) Présentation de soi
+		a) Présentation de soi (1/2 page) 
 		b) Présentation des acquis professinnels
 		c) Choix des priorités de vie personnelle
 	II. Mon projet professionnel
@@ -44,3 +44,4 @@ Dossier PPP :
 		b) Quels métiers m'attirent ? Pourquoi ?
 		c) Mes recherches sur les métiers
 	III. Mon plan d'action
+		parler de nos, métier, comment on se voit plus tard
