@@ -9,10 +9,11 @@ Created on Mon Feb  6 10:37:07 2023
 import pandas
 import matplotlib.pyplot as plt
 
+
+
+""" ## # Part1 :
 CSV = pandas.read_csv("./owid-covid-data-FRA.csv")
 
-## # Part1 :
-"""
 print("Exo 2 :")
 Exo2 = CSV["new_cases"]
 print(Exo2.head(8))
@@ -52,12 +53,15 @@ Exo9 = CSV.loc[CSV["date"]>="2021-11-01"]
 Exo9 = Exo9.loc[CSV["date"]<="2021-12-15"]
 Exo9.plot.bar(x="date",y=["new_cases_smoothed","hosp_patients","icu_patients"], subplots=True)
 """
-
-
-
-
-
-
+## # Part 2 :
+CSV = pandas.read_csv("./owid-covid-data-FRA-UK-US.csv")
+"""
+print("Exo 2 :")
+Exo2 = (CSV.groupby("location")["new_cases_smoothed_per_million"]).mean()
+print(Exo2)
+"""
+print("Exo 3 :")
+(CSV.groupby("location")["new_cases_smoothed_per_million"]).mean().plot.pie()
 
 
 
