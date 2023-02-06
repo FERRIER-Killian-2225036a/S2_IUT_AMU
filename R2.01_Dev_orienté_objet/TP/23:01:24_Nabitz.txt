@@ -1,7 +1,0 @@
-Apprentissage Java et implémentation de plusieurs fonctions et programes depuis éditeur de texte
-
-Github:
-https://github.com/IUTInfoAix-DOO-Java-2223/seance1-killianFerrierf22012793.git
-
-Lien ressource externe:
-https://www3.ntu.edu.sg/home/ehchua/programming/java/J1a_Introduction.html
