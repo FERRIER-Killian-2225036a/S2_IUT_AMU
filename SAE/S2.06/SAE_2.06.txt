@@ -7,3 +7,12 @@ Projet 1 : Hackathon
 Projet 2 : Escape game
 
 Étude de marché: Cible du projet; Max 1/2 page
+
+Page web:
+	Qu'est ce qu'un hackathon ?
+
+	Un hackathon est un évènement collaboratif ayant pour but de réunir des développeurs et d'autres professionnels de l'informatique afin de mobiliser des connaissances pour créer un projet commun dans une compétition a l'inovation. Pour le moment nous avons créez plus d'une ceintaine de projet, aussi bien dans les hackathon que nous appelons "Saison", que des projets dis "Hors série". Les derniers projets sont, par exemple, CarbonFight qui est un calculateur d'empreinte carbone du quotidien et qui est encore actif, ImagineAI qui est un outils open source pour mesurer les stéréotypes écocides et les nouveaux récits autour de la transition écologique dans la culture et les médias. 
+
+	Pourquoi devriez vous participer aux hackathons ?
+
+	Vous devriez participer aux hackathons car c'est un moyen d'aquérir beaucoup de connaissance en matière de programation et pouvoir partager un projet avec plusieurs personnes. De plus, il ne s'agit pas seulement de programation ! Vous devrez vous organisez avec votre équipe pour trouver un projet inovent et pour pouvoir le construire.  
