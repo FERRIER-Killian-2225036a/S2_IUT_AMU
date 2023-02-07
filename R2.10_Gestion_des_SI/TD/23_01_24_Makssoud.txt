@@ -90,82 +90,61 @@ Séance 1 - Introduction a la comptabilité
 				Exercice 2 sur feuille
 				Observation : la valeur du patrimoine n'a pas changé mais la composition n'est plus la même + toutes opérations modifient au moins 2 éléments du patrimoine. Si retrait au distrib. - d'argent a la banque mais + dans le porte feuille
 
-	b) l'évolution de la valeur du patrimoine 
+	II - L'évolution de la valeur du patrimoine 
+		la comptabilité dans une entreprise 
+		comme un particulier une entrprise possede un patrimoine qui evolue continellement la comptabilité conciste a enregistrer 
+		chaque jours les opérations financieres qu'on appelent aussi flux financiers
+		elle servent a connaitre a tout moment et en détail la situation financiere de l'entreprise ce qu'elle possede
+		et le montant de ses dettes
+		- a savoir si grace a son activité l'entreprise s'enrichi ou s'apauvri 
 
-	la comptabilité dans une entreprise 
+		1. la situation fianciere de l'entreprise 
+			la compta permet d'établir dans un document appeller BILAN qui présent la situation fianciere de l'entreprise
+			le Bilan comporte different postes 
+			du coté gauche appelé actifs le détails des biens possédé par l'entreprise 
+			du coté droit appelé passifs les sources de financement de ces biens 
+			bilan : total actif = total passif 
+			l'entreprise a l'obligation de présenter son bilan
+			a la fin de chaque EXERCICES
+			c'est a dire a la fin de chaques années comptables
+			une entreprise n'arrete pas obligatoirement ses comptes au 31 dec, (fin année civile)
+			elle peut aussi les arreter a la fin d'un autre mois c'est souvent le cas lorsque l'activité est saisonniere et que l'on veut logiquement connaitre la situation
+			a la fin d'une saison pour la comparer a ce qu'elle était a la fin de la saison précédente 
 
-	comme un particulier une entrprise possede un patrimoine qui evolue continellement la comptabilité conciste a enregistrer 
-	chaque jours les opérations financieres qu'on appelent aussi flux financiers
+		2. bénéfices ou pertes 
+			la compta sert aussi a determiner en fin d'exercices si le patrimoine de l'entreprise a augmenter ou diminué pendant l'exercice 
+			- si il a augmenté elle s'est enrichi et on dira qu'elle a fait du benefice 
+			- si il a diminué elle s'est appauvri et on dira qu'elle a fait une perte 
+			le résultat de l'entreprise bénéfice ou pertes est calculé a l'aide d'un tableau appelé compte de résultats
+			qui permet de comprendre comment on a abouti a ce résultat 
+			compte résultat : total charges - total produits , si superieur c'est caca, sinon si inferieur c'est la joie
+			fin des fiches d'exercices
 
-	elle servent a connaitre a tout moment et en détail la situation financiere de l'entreprise ce qu'elle possede
-	et le montant de ses dettes
+		3. Décisions 
+			l'analyse des charges ( appauvrissement ) et des produits ( enrichissement ) va permettre d'expliquer le résultat et de determiner 
+			comment ameliorer l'entreprise, le principe est simple pour améliorer la performance d'une entreprise il faut dans le mesure du possible:
+			- augmenter les produits 
+			- réduire les charges
+			- les deux a la fois 
+			dans la réalité ce n'est pas facile mais le fait de disposer des informations nécessaire est la premiere étape indispensable 
+			les entreprises ont pour obligation a la fin de leur exerice de presenter deux documents essentiels grace a la tenu d'une compta 
+			- le bilan tableau présentant la situation financiere
+			- le compte de résultat tableau permettant de savoir si l'entreprise a fait du bénéfice ou de la perte
+			et d'expliquer comment 
 
-	- a savoir si grace a son activité l'entreprise s'enrichi ou s'apauvri 
+	III - Le respect des regles précises 
 
-	1) la situation fianciere de l'entreprise 
+		1. la diffusion des documents comptables 
+			le résultat est la situation financiere de l'entreprise, 
+			elle interesse aussi bien ceux a qui appartien l'entreprise ou aux partenaires ou a certains organises exterieurs
+			voir intro 
 
-	la compta permet d'établir dans un document appeller BILAN qui présent la situation fianciere de l'entreprise
-	le Bilan comporte different postes 
-
-	du coté gauche appelé actifs le détails des biens possédé par l'entreprise 
-	du coté droit appelé passifs les sources de financement de ces biens 
-
-	bilan : total actif = total passif 
-
-	l'entreprise a l'obligation de présenter son bilan
-	a la fin de chaque EXERCICES
-	c'est a dire a la fin de chaques années comptables
-
-	une entreprise n'arrete pas obligatoirement ses comptes au 31 dec, (fin année civile)
-	elle peut aussi les arreter a la fin d'un autre mois c'est souvent le cas lorsque l'activité est saisonniere et que l'on veut logiquement connaitre la situation
-	a la fin d'une saison pour la comparer a ce qu'elle était a la fin de la saison précédente 
-
-	2) bénéfices ou pertes 
-
-	la compta sert aussi a determiner en fin d'exercices si le patrimoine de l'entreprise a augmenter ou diminué pendant l'exercice 
-	- si il a augmenté elle s'est enrichi et on dira qu'elle a fait du benefice 
-	- si il a diminué elle s'est appauvri et on dira qu'elle a fait une perte 
-
-	le résultat de l'entreprise bénéfice ou pertes est calculé a l'aide d'un tableau appelé compte de résultats
-
-	qui permet de comprendre comment on a abouti a ce résultat 
-	compte résultat : total charges - total produits , si superieur c'est caca, sinon si inferieur c'est la joie
-
-	fin des fiches d'exercices
-
-	3) Décisions 
-
-	l'analyse des charges ( appauvrissement ) et des produits ( enrichissement ) va permettre d'expliquer le résultat et de determiner 
-	comment ameliorer l'entreprise, le principe est simple pour améliorer la performance d'une entreprise il faut dans le mesure du possible:
-	- augmenter les produits 
-	- réduire les charges
-	- les deux a la fois 
-
-	dans la réalité ce n'est pas facile mais le fait de disposer des informations nécessaire est la premiere étape indispensable 
-
-	les entreprises ont pour obligation a la fin de leur exerice de presenter deux documents essentiels grace a la tenu d'une compta 
-
-	- le bilan tableau présentant la situation financiere
-	- le compte de résultat tableau permettant de savoir si l'entreprise a fait du bénéfice ou de la perte
-	et d'expliquer comment 
-
-	III) le respect des regles précises 
-	la diffusion des documents comptables 
-	le résultat est la situation financiere de l'entreprise, 
-	elle interesse aussi bien ceux a qui appartien l'entreprise ou aux partenaires ou a certains organises exterieurs
-
-	voir intro 
-
-	2) le droit comptable 
-
-	toute les personnes ou organismes concerné par le résultat et la situation financiere de l'entreprise doivent etre certains que les documents
-	présenté correspondent parfaitement a la réalité 
-
-	d'autre part des comparaisons doivent pouvoir se faire avec d'autres entreprisent du meme secteur pour jugé la performance 
-
-	c'est pourquoi la tenu d'une comptabilité obéit a des regles tres stricte, le comptable doit respecter le plan comptable général 
-	document élaboré par le commité de la reglementation comptable et homologué par le ministere des budgets 
-
-	c'est donc un document officiel qui fixe les règles de tenu des comptes et d'évaluation des biens et des dettes 
-	et qui contient aussi 
-	la liste des comptes a utiliser pour tenir une compta 
+		2. le droit comptable 
+			toute les personnes ou organismes concerné par le résultat et la situation financiere de l'entreprise doivent etre certains que les documents
+			présenté correspondent parfaitement a la réalité 
+			d'autre part des comparaisons doivent pouvoir se faire avec d'autres entreprisent du meme secteur pour jugé la performance 
+			c'est pourquoi la tenu d'une comptabilité obéit a des regles tres stricte, le comptable doit respecter le plan comptable général 
+			document élaboré par le commité de la reglementation comptable et homologué par le ministere des budgets 
+			c'est donc un document officiel qui fixe les règles de tenu des comptes et d'évaluation des biens et des dettes 
+			et qui contient aussi 
+			la liste des comptes a utiliser pour tenir une compta 
