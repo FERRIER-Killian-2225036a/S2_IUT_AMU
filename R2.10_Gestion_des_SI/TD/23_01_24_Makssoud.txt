@@ -98,7 +98,7 @@ Séance 1 - Introduction a la comptabilité
 		et le montant de ses dettes
 		- a savoir si grace a son activité l'entreprise s'enrichi ou s'apauvri 
 
-		1. la situation fianciere de l'entreprise 
+		1. La situation fianciere de l'entreprise 
 			la compta permet d'établir dans un document appeller BILAN qui présent la situation fianciere de l'entreprise
 			le Bilan comporte different postes 
 			du coté gauche appelé actifs le détails des biens possédé par l'entreprise 
@@ -111,7 +111,7 @@ Séance 1 - Introduction a la comptabilité
 			elle peut aussi les arreter a la fin d'un autre mois c'est souvent le cas lorsque l'activité est saisonniere et que l'on veut logiquement connaitre la situation
 			a la fin d'une saison pour la comparer a ce qu'elle était a la fin de la saison précédente 
 
-		2. bénéfices ou pertes 
+		2. Bénéfices ou pertes 
 			la compta sert aussi a determiner en fin d'exercices si le patrimoine de l'entreprise a augmenter ou diminué pendant l'exercice 
 			- si il a augmenté elle s'est enrichi et on dira qu'elle a fait du benefice 
 			- si il a diminué elle s'est appauvri et on dira qu'elle a fait une perte 
@@ -134,12 +134,12 @@ Séance 1 - Introduction a la comptabilité
 
 	III - Le respect des regles précises 
 
-		1. la diffusion des documents comptables 
+		1. La diffusion des documents comptables 
 			le résultat est la situation financiere de l'entreprise, 
 			elle interesse aussi bien ceux a qui appartien l'entreprise ou aux partenaires ou a certains organises exterieurs
 			voir intro 
 
-		2. le droit comptable 
+		2. Le droit comptable 
 			toute les personnes ou organismes concerné par le résultat et la situation financiere de l'entreprise doivent etre certains que les documents
 			présenté correspondent parfaitement a la réalité 
 			d'autre part des comparaisons doivent pouvoir se faire avec d'autres entreprisent du meme secteur pour jugé la performance 
@@ -148,3 +148,4 @@ Séance 1 - Introduction a la comptabilité
 			c'est donc un document officiel qui fixe les règles de tenu des comptes et d'évaluation des biens et des dettes 
 			et qui contient aussi 
 			la liste des comptes a utiliser pour tenir une compta 
+90 j pour manager 
