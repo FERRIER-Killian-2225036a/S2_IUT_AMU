@@ -1,0 +1,100 @@
+I - Les définitions
+
+	() : Couple (1,2) != (2,1)
+	{} : Ensemble {1,2} == {2,1}
+	Sommet:
+		Les points relié par des arcs ou des arêtes (A,B,C | 1,2,3)
+	Arcs:
+		Les flèches reliant les différents sommets dans un graphe orienté. Utilisation de couple pour les définir
+	Arêtes:
+		Les droites reliant les différents sommets dans un graphe non orienté. Utilisation d'ensemble pour les définir
+	Graphe orienté :
+		Graphe ayant des arcs donc ayant un sens entre chaque sommets
+	Graphes non orienté :
+		Graphe ayant des arêtes donc n'ayant pas de sens entre chaque sommet
+	Successeur :
+		Sommet vers lequel l'arc pointe donc le deuxième élément d'un couple (s1,s2)
+	Prédécesseur :
+		Sommet du quel part l'arc donc le premier élément d'un couple (s1,s2)
+	L'ordre :
+		Le nombre de sommets noté |S|
+	La taille :
+		Le nombre d'arêtes ou d'arcs noté |A|
+
+	Dans un graphe on a G = (S,A) où S = {énumération, des, sommets} et A = {{une arête},{une arête}}
+
+	Le voisinage d'un sommet :
+		Le voisinage est l'ensemble des sommet adjacent au sommet étudié. Noté Vg(s) = {ensemble, sommets, adjacents} s étant le sommet étudié.
+	Une boucle :
+		Une boucle est un arc ou une arête dont les deux extrimités sont un même sommet
+	Graphe simple :
+		Un graphe est dit simple si et seulement si: il est non-orienté, il a au plus une arête entre deux sommets et il n'a pas de boucle
+	Graphe isolé :
+		Un graphe isolé est une graphe ne contenant aucune arête. Il est noté Iₙ (ₙ étant le nb de sommets)
+	Graphe cyclique :
+		Un graphe cyclique est un graphe contenant des sommet possédent au maximum 2 arcs/arêtes (penser a un cercle) noté Cₙ (ₙ étant le nb de sommets)
+	Graphe complet :
+		Un graphe complet est un graphe dont les sommets sont tous reliés et noté Kₙ (ₙ étant le nb de sommets)
+	Représentation sagittale :
+		Cette représentation est sous forme de dessin et cette représentation sur le même graphe peut avoir des apparence très différentes
+	Représentation à l'aide d'un dictionnaire :
+		Cette représentation est une table a simple entrée ou chaque ligne correspond à un sommet. Première colone le nom du sommet et la dexième la liste des successeurs ou prédécesseurs.
+		Exemple:| Sommets	Sucesseur |
+				|  	 1			2     |
+				|	 2         1,4    |
+				|	 3		   3,4	  |
+				|	 4			ø     |
+	La matrice d'adjacence :
+		Soit un graphe numéroté de 1 à n. 
+				 k nb arcs/arêtes de i vers j
+		mᵢ,ⱼ  = {
+				 0 sinon
+		Exemple :
+		      sommet
+		      		1 2 3 4
+				1 / 0 1 0 0 \ 
+			M = 2 | 1 0 0 1 |
+				3 | 0 0 1 1 |
+				4 \ 0 0 0 0 /
+		Remarque : 
+			Le total des lignes donne le nombre de sucesseur
+			Le total des colones donne le nombre de prédécesseur
+			Pour un graphe simple, toutes les valeurs sont 1 ou 0
+			Pour un graphe orienté les valeurs ne sont pas symétriques
+			Pour un graphe non orienté les valeurs sont symétriques
+	Réunion de graphes :
+		G U G' = (S U S', A U A')
+	Intersection de graphes :
+		G ∩ G' = (S ∩ S', A ∩ A')
+		Remarque : si S ∩ S' = ø alors G ∩ G' = ø
+	Suppression d'un sommet :
+		Supression du sommet et de tous ses arcs et arêtes
+	Suppression d'un/des arc.s/arête.s :
+		Suppression de l'arc ou de l'arête entre deux sommets
+	Ajout d'une arête/arc :
+		~~~~
+	Un graphe complémentaire dans un graphique simple :
+		~ est noté G.barre. Toutes les arêtes de G.barre seront les arêtes inverse de G (G.barre aura toutes les arêtes qui ne sont pas dans G).
+	Un sous-graphe :
+		induit : suppression seulement d'un sommet et rien d'autre (plusieurs sommet peuvent être supprimés)
+		couvrant : suppression seulement d'un arc/arête et rien d'autre (plusieurs arcs/arête peuvent être supprimés)
+		Remarque : un graphe sans sous-graphe induit ou couvrant est le graphe initial
+	Degrès :
+		Dans un graphe orienté :
+			- degrès entrant : nombre d'arcs dont s est successeur
+			- degrès sortant : nombre d'arcs dont s est prédécesseur
+		Dans un graphe non-orienté :
+			Degrès d'un sommet signifie le nombre d'arêtes dont le sommet est une extrimité (nb d'arêtes qui le touche)
+		Noté d(un sommet) ou d(graphe)=(liste, des, degrès)
+	Séquence des degrès :
+		~ est une liste ordonnée par ordre croissant des degrès des sommets du graphe
+
+	Trouver un graphe simple ayant un séquence donnée :
+		Exemple : séquence L = (2,2,3,3,3,3,4) (valeur de s1 à s7). On récupère le dernier élément (s7). Il a un degrès de 4 donc 4 arêtes. Les 4 arêtes donc on va récupérer les 4 arêtes précédentes. Si on enlève s7, ces 4 arêtes vont perdre un degrès donc vont donc valoir 2. Cela nous donne L' = (2,2,2,2,2,2) ce qui nous donne un graphe cyclique. Il nous reste plus qu'à lier les 4 derniers sommet à s7 que l'on rajoute dans le graphe.
+
+	Isomorphisme:
+		~ signifie que deux graphe sont visuelement différent mais fondamentallement similaire. Pour qu'un graphe soit isomorphe il faut :
+			- Le même nombre de sommets
+			- 	  ~	    ~    d'arêtes
+			- La même séquence de degrès
+			- La même relation de voisinage

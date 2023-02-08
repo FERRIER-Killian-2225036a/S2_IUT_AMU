@@ -1,0 +1,2 @@
+Apprentissage de la séparation d'un algorithme en plusieurs fonctions (dans le même fichier et dans un fichier différent) pour claculer la moyenne de plusieurs notes.
+Apprentissage de la différence entre public et privé
