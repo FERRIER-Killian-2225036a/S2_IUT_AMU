@@ -149,3 +149,38 @@ Séance 1 - Introduction a la comptabilité
 			et qui contient aussi 
 			la liste des comptes a utiliser pour tenir une compta 
 90 j pour manager 
+
+Séance 2 - Étude du bilan
+
+	I - L'origine des fonds d'une entreprise et leur utilisation
+
+		1 - Le rôle du bilan
+			Le bilan est un document qui sert a présenter la situation de l'entrerpise à la fin de son exercice. Il comporte 2 parties:
+				- L'actif (à gauche): est le côté des emplois. On note de ce côté comment a été utilisé l'argent mis à la disposition de l'entreprise
+				- Le passif (à droite): est le côté des ressources. On note de ce côté d'où vient l'argent dont dispose l'entreprise
+
+		2 - Le reclassement des postes du bilan en ressources et emplois
+			Voir polycopié
+
+	II - La structure du bilan
+
+		1 - La structure du passif 
+			Il ya deux catégories aux passif:
+				- Capitaux propore: se sont les capitaux qui appartiennent en propre à l'entreprise et que par conséquent il doit pas le rembourser. Il s'agit en particulier de l'apport de l'entrepreneur ou des associés que l'on appel le capital
+				- Les dettes: dettes que l'entreprise doit rembouser:
+					- Emprunts a la banque
+					- Dettes aux fournisseurs: si l'entreprise a fait des achats a crédit par exemple
+
+		2 - Structure de l'actif
+			Deux sortes d'emploi qui figure à l'actif:
+				- Outil de travail: 
+					- Materiel industriel
+					-    ~ 	   de transport
+					-    ~ 	   de bureau
+					Ce sont des postes dont la valeur en générale ne varie pas sauf si l'on rachette ou si l'on revend du materiel. Ils sont classés dans l'ordre logique d'acquisition
+				- Éléments d'exploitation: On appel exploitation l'activité de l'entreprise. Pour exercer son activité, l'entreprise à besoin entre autre d'un stock de marchandise ou de matières premières et de liquidités (argent sur le compte en baque et en caisse).  
+				Lorsque l'entreprise travail, qu'elle vend des marchandises par exemple, son stock diminue, en contre partie elle va toucher de l'argent de ses clients donc son compte en banque va augementer. Mais il lui faut aussi payer les salaires du personel et son compte en banque ca diminuer, etc, etc... La valeur des éléments d'exploitation varie continuellement.
+				Au bilan, il est logique de placer les stocks avant les liquidités. 
+
+	III - L'équilibre du bilan
+		Le bilan est équilibré ce qui signifie que les total des emplois est égale au total des ressources (total actif = total passif).
