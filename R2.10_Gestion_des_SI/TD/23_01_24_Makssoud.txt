@@ -183,4 +183,10 @@ Séance 2 - Étude du bilan
 				Au bilan, il est logique de placer les stocks avant les liquidités. 
 
 	III - L'équilibre du bilan
-		Le bilan est équilibré ce qui signifie que les total des emplois est égale au total des ressources (total actif = total passif).
+		Le bilan est équilibré ce qui signifie que les total des emplois est égale au total des ressources (total actif = total passif). C'est parfaitement logique:
+			- Si l'entreprise veut acheter un bien elle doit trouver la source de financement correspondante. 
+			- Si l'entreprise dispose de ressources, elle va leur trouver une utilisation. Cette utilisation peut consister simplement à placer l'argent sur un compte en banque, sur un compte sur livret ou même à le garder sous forme d'argent liquide en attendant de s'en servir. De toutes façon ces ressources vont se retrouver quelque part.
+		Toutes ressources doit trouver un emploi de même valeur
+		Tout emploi nécessite une ressource de même valeur
+		C'est le principe de la partie double que l'on retourvera continuellement en analysant les opérations financière réalisé par l'entreprise.  
+		Exo feuille
