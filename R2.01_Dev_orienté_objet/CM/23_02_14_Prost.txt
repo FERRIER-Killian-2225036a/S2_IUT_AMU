@@ -1,0 +1,2 @@
+Programmation de façon procédurale pour le moment
+Un type = doamine de valeur et un ensemble d'opération
