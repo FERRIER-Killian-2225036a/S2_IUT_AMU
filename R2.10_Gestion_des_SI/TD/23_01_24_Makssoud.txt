@@ -190,3 +190,23 @@ Séance 2 - Étude du bilan
 		Tout emploi nécessite une ressource de même valeur
 		C'est le principe de la partie double que l'on retourvera continuellement en analysant les opérations financière réalisé par l'entreprise.  
 		Exo feuille
+
+Séance 3 - Le compte de résultat
+	
+	I - La notion de résultat
+		1 - Rappel
+			L'activité de l'entreprise débouche en fin d'exercice sur un résultat qui peut être un bénéfice ou une perte. 
+				- L'entreprise fait du bénéfice lorsque son patrimoine augement = elle s'enrichie au cour de l'exercice
+				- L'entreprise fait de la perte lorsque son patrimoine diminue = elle s'appovrie au cour de l'exercice
+			
+			/!\ A RETENIR:
+				- Si une entreprise fait du bénéfice ce n'est pas pour autant qu'elle a plus de liquidités. Cela signifie simplement que la valeur de son patrimoine a augementé. De la mm facon, une entreprise qui fait de la perte ne connais pas obligatoirement des difficultés de trésorerie
+				- Le résultat figure toujours au passif du bilan dans les capitaux propres 
+
+		2 - Les différents types d'opérations réalisées vis-à-vis du résultat
+			1 - Les opérations qui n'occasionnent ni bénéfice ni perte
+				Si en échange d'un paiment, une entreprise reçoit un bien de mm valeur, elle n'est ni plus riche ni plus pauvre car la valeur de son patrimoine reste la mm
+			
+			2 - Les oprération qui appovrissent (les charges)
+				Si, en échange d'un paiement, une entreprise ne reçoit rien, elle s'appovrit.
+				Si, en échange d'un paiement, une entreprise reçoit un service ou du travail, elle s'appovrie
