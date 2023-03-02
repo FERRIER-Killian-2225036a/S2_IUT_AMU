@@ -1,0 +1,13 @@
+ominous = sinistre
+a threat = une menace
+to avoid = éviter
+silly = un peu bête
+
+poème en rime avec now:
+	I see the cow
+	and it says wow
+	and don't ask how
+	It was wering a crown 
+	and it was brown
+
+People often think that if a computer is crashing on a regular !basis, then it means it's time to upgrade to a newer, better one. But not !necessarily : as computers get used, then !basically get tired and dirty. In most cases, this can be fixed by having a !tune-up.
