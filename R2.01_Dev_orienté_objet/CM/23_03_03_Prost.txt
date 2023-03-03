@@ -1,0 +1,37 @@
+Polymorphisme:
+	code:
+		Vehicule v = new Velo();
+		v.conduire();
+		v = new Voiture();
+		v.conduire();
+
+	méthode dans Velo va modifier le comportement conduire() dans Vehicule
+	Alocation dynamique du code
+
+Tout ce qu'on peut faire dans la classe parente on peut le faire dans la classe fille mais pas l'inverse
+
+Cast:
+	cast = transtipage
+	Faut s'en méfier
+	Encadrer le cast pour le tester
+
+	upcasting (méthode sûr): 
+		Récupérer les méthodes des classes supérieur (up)
+		Avion a = new Avion();
+		((Vehicule)(a)).conduire();
+
+	downcasting:
+		On peut récupérer une méthode d'une autre classe du même niveau ou plus bas (down) 
+		Vehicule v = new Velo();
+		((Avion)(v)).aterrir();	
+
+/!\
+Vehicule -> conduire(Person p)
+Voiture -> conduire(Etudiant e)
+
+Person p = new Etudiant();
+p.conduire(); // conduire de vehicule car de type Person
+
+if(v1 == v2) FAUX
+v1.equals(v2);
+
