@@ -35,3 +35,9 @@ p.conduire(); // conduire de vehicule car de type Person
 if(v1 == v2) FAUX
 v1.equals(v2);
 
+Pour redéfinir "equals", le parametre ne sera pas de type Vehicule mais de type Object
+
+Type abstract signifie qu'on ne peut pas définir de variable avec ce type
+
+classes abstraite permet de factoriser les méthodes + permet de définir des méthodes abstraite
+
