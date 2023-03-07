@@ -1,0 +1,12 @@
+Découverte de Git
+Commit plus haut = plus récent
+3 parties : working copy - index - repository
+working copy = fichiers locaux 
+index = git add
+repository = git commit -m ''
+
+Passer du working copy au repository directement = git commit -a
+Revenir en arrière de l'index au working copy = git reset
+
+git diff = différence entre working copy et index
+git diff --cached = différence entre index et repository
