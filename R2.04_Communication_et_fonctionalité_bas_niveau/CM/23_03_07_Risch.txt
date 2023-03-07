@@ -1,0 +1,28 @@
+Traduction du code (compilation) qui est exécuté
+Ordi = éxecuteur d'instructions rangé dans mémoire principale
+Cycle de recherche / Cycle d'execution
+Bits réprensentent info ou instructions
+Code-op - registre - registre - regirstre - décalage - fonction
+						Hexadécimal
+code-op + fonction = add
+registre: $t0 $s1 $s2
+=> add $t0, $s1, $s2; (assembler) = C=A+B (c++)
+Entre RAM et proc il y a des registres = mémoire temporaire par lesquels passent les données 
+LOAD R1, @A;
+ADD R1, @B;
+STORE R1, @C;
+On va passer par le registre R1 pour faire l'opération
+On passe par le "sas" d'entrée et sorti = le registre donc la mémoire n'a pas accès directement au proc et inversement
+En une ligne = construsction d'ordi en 60
+	Tout le système et dédié a l'opération donc une opération a la fois
+En 4 Lignes = apparition des compilateurs
+	Le proc va executer une opération venant d'un registre mais on peut quand même envoyer des données dans les registres pour qu'ils les fassent après
+	Donc plus rapide
+	Utilisé de nos jours
+MIPS:
+	$t = temporaire
+	$s = sauvegardé
+add = addition deux registre suavegrader dans un autre registre
+addi = ajout d'un nombre a un registre sauvegarder dans une autre registre
+lw $s1, 100($s2) = on prend la valeur de l'adresse mémoire de s2 plus 100
+sw = inverse, on va enregistrer la valeur a l'adresse mémoire donnée plus 100
