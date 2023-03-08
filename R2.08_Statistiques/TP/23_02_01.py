@@ -52,10 +52,10 @@ def calculMode(effectif,modalite):
             maxi = effectif[i]
     return modalite[maxi]
 
-maxi = np.index_exp(np.max(modalite)) 
+#maxi = np.index_exp(np.max(modalite)) 
 
 #mode = calculMode(effectif, modalite)
-print(maxi)
+print(frequence)
 
 
 
