@@ -59,14 +59,14 @@ a, b = np.polyfit(Hosp,Deces,1)
 print("La droite de régression linéaire a pour équation y =",round(a,3),"x =",round(b,3))
 
 #%% Exo 1.6
-plt.scatter(Hosp, Deces)
+#plt.scatter(Hosp, Deces)
 x_trace = np.linspace(np.min(Hosp),np.max(Hosp))
 plt.plot(x_trace, a*x_trace+b , 'red')
 plt.show()
 
 #%% Exo 2.1
-
-
+print("Variance deces :", np.var(Deces))
+print("Ecart type deces :", np.std(Deces))
 
 
 
