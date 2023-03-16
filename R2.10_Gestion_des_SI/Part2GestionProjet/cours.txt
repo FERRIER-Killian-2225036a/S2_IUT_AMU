@@ -1,2 +1,17 @@
 Introduction:
-	La gestion de projet est un ensemble de technique et de méthode utiliser pour planifier, organiser, et gérer les ressources nécessaire à la réalisation d'un projet.
+	La gestion de projet est un ensemble de technique et de méthode utiliser pour planifier, organiser, et gérer les ressources nécessaire à la réalisation d'un projet. Cela implique la définition des objectifs du projet, l'élaboration d'un plan d'action, la gestion des tâches et des échanciés, la coordination des membres de l'équipe, le suivi de l'avancement des projets et la résolution des problèmes qui peuvent survenir. Pour mener a bien un projet, il faut une approche méthodique avec des étapes bien spécifique: 
+		- 1ere étape: initiation du projet, définition du but et des objectifs, identification des parties prenantes et détermination des ressources necaissaire.
+		- 2eme étape: plannification(élaboration d'un plan détaillé pour réaliser le projet) élaboration de l'échéencier, définition des tâches et responsabilité, determination du budjet.
+		- 3eme étape: éxecution = mise en oeuvre du plan du projet, de la gestion des membres de l'équipe, de la coordination des tâches et la résolution des problèmes. 
+		- 4eme étape: suivi et contrôle = surveillance de l'avancement du projet, on prend des mesures pour corriger les déviation du plan initial.
+		- 5eme étape: cloture du projet, évalutation finale du projet pour en tirer les lecons pour l'avenir.
+		- 6eme étape: suivi
+	La gestion de projet se termine pas une fois le projet terminé
+
+Exercice:
+	Entreprise dévoloppe logi.
+	4eme étage, nous premier étage
+	Idée: nouvelle app de gestion de stock pour petit commercant; doit les aider a gérer leurs stocks en ligne
+	Point précis: Permettre petit commencant suivre stock en temps réel, gerer commande et vente, suivre les fournisseur, gérer les clients, générer les rapport de vente et statistique
+
+	
