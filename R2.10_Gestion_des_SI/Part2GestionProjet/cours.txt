@@ -14,4 +14,14 @@ Exercice:
 	Idée: nouvelle app de gestion de stock pour petit commercant; doit les aider a gérer leurs stocks en ligne
 	Point précis: Permettre petit commencant suivre stock en temps réel, gerer commande et vente, suivre les fournisseur, gérer les clients, générer les rapport de vente et statistique
 
-	
+Les caractéritiques d'un projet:
+	La mise ne oeuvre d'un projet permet de conduire un changement d'améliorer une situation existante, de proposer un nouveau produit ou une nouvelle prestation, de modifier son organisation ou de se mettre en conformité avec une nouvelle reglementation
+
+	I - Définition du projet:
+		Pour l'organisme internationnal de normalisation. Un projet est un processus unique qui consiste en un ensemble d'activités coordoné et maitrisezr comportant des dates de début et de fin entrepris dans le but d'atteindre un objectif conforme à des exigences tels que les contraintes de delai, de côuts et de ressources
+
+	II - Les types de projets:
+		Différents types de projet: petit, grand, moyen en fonction du nb de personne parti prenante du projet, du budjet alloué et en fonction de la durée de réal du projet
+		Il existe 3 principaux types de projets:
+			- Projet ouvrage: production unique
+			- Projet produit ou service: réal en plusieurs exemplaire
