@@ -33,4 +33,10 @@ Les caractéritiques d'un projet:
 			- Contraintes: elle concerne le budjet, les délais, les considérations matériels et techniques, la communication. Ces point doivent être définis aussi clairement que possible selon les données existantes car ils permetent d'envisager si un projet est réal. ou non
 			- Enjeux: ils se définissent comme ce que l'orga. peut gagner ou perdre en réal. le projet 
 			- Risques: ce sont les évènement à venir, incertain, dommageable pour le projet et dont il possible d'estimer la proba. et la gravité des conséquence. Les risques sont de différentes nature, orga., technique, financier, humain, juridique. Un risque est à venir si il se réal., il devient un problème.
-			- Jalons: il s'agit des évènement au cours du prjet dont on identifie de facon certaine la date a laquelle ils se produisent  
+			- Jalons: il s'agit des évènement au cours du prjet dont on identifie de facon certaine la date a laquelle ils se produisent 
+			- Livrable: ce sont les prod. attendu d'une activité ou d'un processus. Il existe 3 types de livrables:
+				- Projet: maquette du tableau de bord du pilotage du projet
+				- Gestion: Compte rendu / rapport
+				- Produit: Qu'est-ce qui est produit (maquette)
+			- Coûts: ils doivent être estimé pour s'assurer de l'existence des fonds suffisant pour réal. le projet. On distingue les coûts direct et indirecte pas directement lié a l'exec. du projet (coûts de comm)
+			- Date cible: il s'agit de la date à laquelle le produit du projet doit être livré (ouverture a la circulation d'un pont)
