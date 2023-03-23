@@ -30,4 +30,7 @@ Les caractéritiques d'un projet:
 	III - Les éléments constitutif d'un prjet:
 		Divers éléments doivent être défini afin d'établir un description précise du projet dans sa phase de préparation
 			- Périmètre: c'est l'inventaire de ce qui entre dans le projet et ce qui en sort
-			- Contraintes: elle concerne le budjet, les délais, les considérations matériels et techniques, la communication. Ces point doivent être définis aussi clairement que possible selon les données existantes car ils permetent d'envisager si un projet est réal. ou non 
+			- Contraintes: elle concerne le budjet, les délais, les considérations matériels et techniques, la communication. Ces point doivent être définis aussi clairement que possible selon les données existantes car ils permetent d'envisager si un projet est réal. ou non
+			- Enjeux: ils se définissent comme ce que l'orga. peut gagner ou perdre en réal. le projet 
+			- Risques: ce sont les évènement à venir, incertain, dommageable pour le projet et dont il possible d'estimer la proba. et la gravité des conséquence. Les risques sont de différentes nature, orga., technique, financier, humain, juridique. Un risque est à venir si il se réal., il devient un problème.
+			- Jalons: il s'agit des évènement au cours du prjet dont on identifie de facon certaine la date a laquelle ils se produisent  
