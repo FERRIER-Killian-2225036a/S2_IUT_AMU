@@ -24,4 +24,10 @@ Les caractéritiques d'un projet:
 		Différents types de projet: petit, grand, moyen en fonction du nb de personne parti prenante du projet, du budjet alloué et en fonction de la durée de réal du projet
 		Il existe 3 principaux types de projets:
 			- Projet ouvrage: production unique
-			- Projet produit ou service: réal en plusieurs exemplaire
+			- Projet produit ou service: réal en plusieurs exemplaire parce qu'il s'adresse a plusieurs clients
+			- Projet organisationnel ou evenementiel: lié a un évènement ponctuel
+
+	III - Les éléments constitutif d'un prjet:
+		Divers éléments doivent être défini afin d'établir un description précise du projet dans sa phase de préparation
+			- Périmètre: c'est l'inventaire de ce qui entre dans le projet et ce qui en sort
+			- Contraintes: elle concerne le budjet, les délais, les considérations matériels et techniques, la communication. Ces point doivent être définis aussi clairement que possible selon les données existantes car ils permetent d'envisager si un projet est réal. ou non 
