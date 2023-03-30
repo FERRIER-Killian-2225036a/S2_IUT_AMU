@@ -40,3 +40,19 @@ Les caractéritiques d'un projet:
 				- Produit: Qu'est-ce qui est produit (maquette)
 			- Coûts: ils doivent être estimé pour s'assurer de l'existence des fonds suffisant pour réal. le projet. On distingue les coûts direct et indirecte pas directement lié a l'exec. du projet (coûts de comm)
 			- Date cible: il s'agit de la date à laquelle le produit du projet doit être livré (ouverture a la circulation d'un pont)
+
+Séance 2 - Les acteurs et les parties prenantes
+	Dans une gestion de projet, il y a plusieurs acteurs et parties prenantes qui interviennent tout au long du projet:
+		- Le chef de projet : il est responsable de la plannification, de l'execution et de la cloture du projet
+		- Les membres de l'équipe : ils sont responsable de réalisation des taches qui leur sont assignés
+		- Les parties prenantes interne : ce sont les personnes travaillant au seins de l'entreprise et qui ont un interêt direct ou indirect dans le projet (responsable hierarchique/de service)
+		- Les parties prenantes externe : ce sont les personnes ou les organisations exterieur a l'entreprise et qui ont un interêt direct ou indirect avec le projet commme les clients, fournisseurs, partenaires, etc
+		- Les sponsors : ce sont les personnes ou les organisations qui financent le projet et qui en tire des bénéfices
+		- Les utilisateurs finaux : ce sont les personnes qui utiliseront le produit finale du projet
+		- Les organismes de la reglementation : L'état ou les autorités reglementaires qui ont un rôle a jouer dans le projet
+		- Les concurants : ils peuvent être impliqué dans le projet, notement dans le cas de projets colaboratifs ou de co-developpement
+		- Les médias : ils peuvent être intéressé par le projet et en faire la promotion ou en couvrir les avancés
+	Il est important de prendre en compte tous ces acteurs et parties prenantes dans la gestion de projet en identifiant leurs besoins et en communiquant régulièrement avec eux tout au long du projet
+
+	La maîtrise d'ouvrage : personne physique ou moral nommé par la direction den l'entrep. pour laquelle l'ouvrage est réal. et qui sera le proprio. du projet
+	Comité de pilotage : groupe de dirigeants chargé de veiller au bon déroulement du projet. Ce sont des décideurs qui vont mener les arbitrages necessaire a la conduite du projet
