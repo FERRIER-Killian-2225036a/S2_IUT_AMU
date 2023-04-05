@@ -1,0 +1,61 @@
+Exercice 1
+	Hôte A :
+	1. Son adresse de réseau est 15.0.0.0/8
+	2. Son adresse de diffusion est 15.255.255.255
+	Hôte B :
+	1. Son adresse de réseau est 210.100.45.0/24
+	2. Son adresse de diffusion est 210.100.45.255
+	Hôte C :
+	1. Son adresse de réseau est 172.15.0.0/16
+	2. Son adresse de diffusion est 172.15.255.255
+	Hôte D :
+	1. Son adresse de réseau est 10.246.232.0/22
+	2. Son adresse de diffusion est 10.246.235.255
+	Hôte E :
+	1. Son adresse de réseau est 192.168.0.0/13
+	2. Son adresse de diffusion est 192.175.255.255
+Exercice 2
+	1. Privée
+	2. Publique
+	3. Privée
+	4. Publique
+	5. Publique 
+Exercice 3
+	1.adresse IPv4 : 10.192.135.190 / masque de sous-réseau : 255.255.255.0
+	2. adresse de réseau : 10.192.135.0/24 (le résultat du AND entre l’adresse IP et
+	le masque)
+	3. La plus petite adresse d'hôte est : 10.192.135.1
+	4. La plus grande adresse d'hôte est : 10.192.135.254
+	5. l’adresse de la passerelle est : 10.192.135.250
+Exercice 4 
+	les valeurs sont données en hexadécimal.
+		• version : 4
+		• longueur entête : 5 (5 mots de 4 octets)
+		• champs DS : 00
+		• longueur totale : 0040
+		• identification : 325f
+		• indicateur + décalage : 0X0000 (pour simplifier les calculs)
+		• durée de vie : 80
+		• protocole : 11. En décimal, protocole = 1 +16 = 17 donc ce paquet IP
+		encapsule un datagramme UDP.
+		• Somme de contrôle d’entête : 0000
+		• adresse IP de source : 8b 7c bb 1d => En décimal pointé : 139.124.187.29
+		• adresse Ip de destination : 8b 7c 01 02 => en décimal
+		pointée :139.124.1.2
+		• le reste est la partie données (pas d’option ni padding étant donnée que la
+		longueur entête est de 5 mots de 32 bits). Les données correspondent à un
+		datagramme UDP.
+Exercice 5
+	1. C'est 128=2^7 donc il faut prendre 7 bits -> prefixe de 16+7 cad /23 (16 est la taille de la partie réseau)
+	2. 16-7 donc il reste 9 bits pour la partie hôte : donc le nombre d'hotes par sous réseau est 2⁹ - 2 = 510
+	3. L’adresse du premier sous-réseau : 172.30.0.0/23 est la plus petite adresse d'hôte : 172.30.0.1. Et la plus grande partie d'hôte est 172.30.1.254.
+	4. l'adresse du dernier sous-réseau est : 172.30.254.0/23, la plus petite adresse d'hôte est : 172.30.254.1, la plus grande adresse d'hôte est : 172.30.255.254
+Exercice 6 
+	A : dernier octet : 00000000 => adresse A : 192.168.50.0/26
+	B : dernier octet : 01000000 => adresse B : 192.168.50.64/26
+	C : dernier octet : 10000000 => adresse C : 192.168.50.128/26
+	D : dernier octet : 11000000 => adresse D : 192.168.50.192/30
+	E : dernier octet : 11000100 => adresse E : 192.168.50.196/30
+Exercice 7
+	4. Non, car la subdivision (subnetting) est une question interne au réseau subnetté
+	   et elle n’est pas visible depuis l’extérieur et R1 fait partie de l’extérieur.
