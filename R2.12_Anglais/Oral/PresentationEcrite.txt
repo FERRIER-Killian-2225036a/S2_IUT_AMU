@@ -1,0 +1,27 @@
+06/04/2023
+
+I - Introduction
+
+II - Product Description
+	
+	Synology DS220+: https://www.amazon.com/Synology-Bay-DiskStation-DS220-Diskless/dp/B087ZCBWFH/ref=sr_1_3?crid=1MK24G7M2ZDYB&keywords=NAS&qid=1680767336&sprefix=nas%2Caps%2C197&sr=8-3&th=1
+		size: 
+			32 TB (16 TB drive x 2) 3.5" SATA HDD, 2.5" SATA HDD, 2.5" SATA SSD	
+		dimension:
+			16.52 x 10.8 x 23.22 cm
+		features/benefits:
+			2 Drive Bays 
+		color/shape/construction materiel used or needed:
+		how it works:
+		a link with computer science:
+
+	Synology DS420+: https://www.amazon.com/Synology-4-Bay-DiskStation-DS923-Diskless/dp/B0BM7KDN6R/ref=zg_bs_20941687011_sccl_2/131-9994484-1867838?th=1
+		size: 
+			64 TB (16 TB drive x 4) 3.5" SATA HDD, 2.5" SATA HDD, 2.5" SATA SSD, M.2 2280 NVMe SSD
+		dimension:
+			59.01 x 51.01 x 28.5 cm
+		features/benefits:
+			4 Drive Bays
+		color/shape/construction materiel used or needed:
+		how it works:
+		a link with computer science:
