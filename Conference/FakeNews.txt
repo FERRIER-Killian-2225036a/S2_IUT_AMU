@@ -17,6 +17,7 @@ Porte parole de Trump = faut douter des fait
 Ce qui compte c'est les émotions = douter de l'évidence
 
 DeepFake = Fausse photo/vidéo grace a l'IA
+Fake news moderne
 
 Fake news pas récente
 -6 av JC = décridibilisé l'armée d'en face
@@ -82,4 +83,14 @@ Outils pour lutter:
 	Extension payante NewsGuard : chercheur et journaliste pour débunké 
 	TinEye pour vérifier les date des photos prises
 
-	
+Pb juridique : pas possible de mettre des étiquettes sur des sources dans une démocratie pour dire si c'est de l'info ou de la désinfo
+
+Il faudrait bcp d'effectifs pour vérifier le contenue des réseaux sociaux
+
+Pas de conséquence pour avoir diffusé une fake news, viré mais sans "punition"
+
+Samuel patie mort mais la fille qui a difusé la fake news n'a pas appelé a le tué 
+Point de vue juridique compliqué
+
+Aquerrir des automatismes pour detecter les fake news
+
