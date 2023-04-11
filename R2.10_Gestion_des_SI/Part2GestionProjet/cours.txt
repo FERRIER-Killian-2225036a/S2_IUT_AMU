@@ -60,3 +60,5 @@ Séance 2 - Les acteurs et les parties prenantes
 
 	La maîtrise d'oeuvre MOE : 
 
+Séance 3 - L'élaboration d'un persona
+	Il est important d'optimiser la connaissance de l'utilisateur. Cette connaissance permet d'adapter et de mieux répondre aux besoins du client. Un persona est le portrait robot du client type ciblé et représentatif du porte feuille de l'entrep. ou d'une nouvelle cible visé sur le marché. L'entreprise decelle les tendences majeurs de ce client type a partir des données qu'elle détient sur les clients actuel. Un nom est donné au persona considéré comme un vrai individu (h/f). Son profil contient des info. descriptives et des éléments de motivation. Cette symbolisation de clients idéaux permet de mieux comprendre leurs profils d'utilisateurs.
