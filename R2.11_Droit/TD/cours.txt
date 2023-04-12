@@ -23,4 +23,12 @@ Séance 2 - Les sources de droits
 	Le droit organise la société au nom de certaine valeurs, il émane d'autorité légitime. Malgrès leurs grandes diversités, les règles de droits nationnales et européennes contitue un ensemble normatif cohérent. L'étude permet de réafirmer le caractère européen de notre système juridique et d'observer que la cohérence de l'ordre juridique repose sur la complémentarité et la hierarchie de la source du droit. Elle permet également de rappeler les principes d'organisation et de séparation des pouvoirs. 
 
 	I - Les sources du droit et les autorités créatrice
-		 
+		Les règles de droits forment un ensemble complexe de règles +100000. Ces règles appartiennent aux différentes branches du droit. Elles sont codifiés, c'est a dire regrouper dans des codes (civil/pénale/etc). L'ensemble de ces règles et de ces codes est accessible sur internet(legifrance.gouv.fr). 
+
+		- La constitution francaise du 4 Octobre 1958 c'est le texte fondateur de la 5ème Republique. C'est un acte juridique qui contient l'ensemble des règles organisant leurs pouvoirs publics et leurs rapports. La constitution est élaboré par l'assemblé constituante. 
+		- Le droit comunautaire regroupe l'ensemble des règles de droit internationnale sur lesquelles l'Union Européenne est fondée et les directives qu'elle édicte. Ces directive et reglement sont élaboré par le conseil et le parlement Européen. 
+		- La loi est l'ensemble des règles juridiques générales et impersonnelles. Elle relève des domaines suivants 
+			- Les droits civique est garenti fondamentale accordé aux citoyens
+			- La nationnalité l'état et capacité des personnes
+			- Determination des crimes et des délis
+			- Les taux et les modalités   
