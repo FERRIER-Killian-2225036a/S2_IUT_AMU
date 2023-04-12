@@ -1,0 +1,12 @@
+;extern;www.allocine.fr;www.allocine.fr/film/fichefilm_gen_cfilm=242600.html;www.allocine.fr/film/fichefilm_gen_cfilm=227548.html;www.allocine.fr/series/ficheserie_gen_cserie=18145.html;www.allocine.fr/series/ficheserie_gen_cserie=19475.html;www.allocine.fr/film;www.allocine.fr/series;www.allocine.fr/streaming;www.allocine.fr/trailer;www.allocine.fr/vod
+extern;0;1;1;1;1;1;0;0;0;0;0
+www.allocine.fr;0;0;1;1;1;1;1;1;1;1;1
+www.allocine.fr/film/fichefilm_gen_cfilm=242600.html;0;1;1;0;0;0;0;0;0;0;0
+www.allocine.fr/film/fichefilm_gen_cfilm=227548.html;0;1;0;1;0;0;0;0;0;0;0
+www.allocine.fr/series/ficheserie_gen_cserie=18145.html;0;1;0;0;0;0;0;0;0;0;0
+www.allocine.fr/series/ficheserie_gen_cserie=19475.html;0;1;0;0;0;0;0;0;0;0;0
+www.allocine.fr/film;0;1;1;1;0;0;0;0;0;0;0
+www.allocine.fr/series;0;1;0;0;1;1;0;0;0;0;0
+www.allocine.fr/streaming;0;1;0;0;0;0;0;0;0;0;1
+www.allocine.fr/trailer;0;1;0;0;0;0;0;0;0;0;0
+www.allocine.fr/vod;0;1;0;0;0;0;0;0;0;0;0
