@@ -41,3 +41,29 @@ Séance 3 - Le droit
 			- Morale = Entreprise, collectivité = regroupement de personnes
 	L'objet du droit objectif est de délimiter les droits subjectifs des personnes. Ces droits sont complémentaires.
 	Le droit est un ensemble de règles destiner a organiser la vie en société, on parle de droit objectif. Il s'agit de délimiter la part de liberté et de contrainte de chacun, définir ce qui est permet ou pas pour que la vie en société ou ... soit possible. L'organisation de notre société est fondé sur 4 principes généraux (liberté = capacité de faire tout ce qui ne nuit pas a autruit, égalité = les hommes et les femmes dispose des même prérogatives et obligation, fraternité, laïcité)
+
+Séance 4 - les fonctions du droit
+	La vie en societe amene les individus a edicter des regles qui repondent a des foncetion particulieres
+
+	1 - le droit PACIFIE les relations sociales:
+		le droit remplace les rapports de force par des rapports de droit.
+		en creant des regles applicables a chaque situation le droit reduit les violences humaines et regle les conflits pacifiquement. le droit assure a tout les hommes le statut de sujet de droit libres et egaux
+
+	2 - Le droit ORGANISE la vie en societe
+		car il determine les moyens d'action de chacun dans sa vie en societe ce qui est possible ou non de faire , il permet aux individus de vivre dans une societe structurée ou ils savent a qui s'adresser.
+
+	3 - le droit TRADUIT les VALEURS COLLECTIVES
+		les valeurs collectives sont les ideaux moraux que les membres d'une societe partagent et qu'ils entendent promouvoir. Ces valeurrs sont en perpetuelle evolution : les mentalités , les ideaux  ou la vision du bien et du mal changent regulierement au fil des reflexions et experiences des uns et des autres. le droit ne peut pas rester figer face a ces evolutions il evolue pour confirmer les evolutions qui lui semblent benefiques a l'ensemble de la societe
+
+Séance 5 - Organisation juridictionnelle
+	La multitude des règles de droit objectif necessite un classement. Le principale critère de classification des règles des droit se fait par la distinction entre droit privé/publique.
+	- Le droit privé : Il regroupe les règles qui régissent les rapports entre les particuliers ou les personnes privé qu'elles soient physique ou morale(entrep.). Leurs violations est sanctionné par les tribunaux de l'ordre judiciaire
+	- Le droit publique : Il regroupe l'ensemble des règles qui organise le fonctionnement d'un état. Leurs violation est sanctionné par les tribunaux de l'ordre administratif. 
+	La justice veille aux respect des lois en garentissant les droits de chacun. En france, elles se composent de deux ordres de juridiction bien distinct : 
+	- l'ordre judiciaire : compétant pour appliquer les règles de droits privé. Sanctionne les infractions aux règles de droits pénale (contravention, déli,etc) et règle les conflit les règles de droit civile
+	- l'ordre administratif : applique les règles de droit de droit publique dans les litiges opposant l'administration avec les particuliers.
+
+	Section 1 - L'ordre juridirectionnel judiciaire
+		I - Présentation générale
+			A - la 1ere instance
+			B - l'appelœ
