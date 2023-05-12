@@ -1,0 +1,11 @@
+Exo commande Host:
+1. 10.203.6.16
+2. 139.124.244.225
+3. V
+4. univ-amu.fr mail is handled by 30 mx1-stj.univ-amu.fr.
+   univ-amu.fr mail is handled by 30 mx1-phr.univ-amu.fr.
+
+Exo2:
+1. V
+2. V
+ 

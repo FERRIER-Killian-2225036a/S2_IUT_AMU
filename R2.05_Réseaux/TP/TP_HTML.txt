@@ -1,0 +1,6 @@
+URL : www.ietf.org
+Navigateur : Firefox sur un Linux Debian
+
+Accept : signifie le format de fichier accepté par le serveur
+Accept-Encoding : 
+Accept-Language : Les langues accepté par le serveur
