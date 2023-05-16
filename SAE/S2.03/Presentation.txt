@@ -1,0 +1,10 @@
+16/05/23
+Mettre en place un LAN:
+	Serveur DNS bind
+	Serveur Web Apache/Ngnix
+	Serveur de messagerie Postfix et Dovecot
+	Clients de ces serveurs
+
+Prendre 4 machines a mettre en LAN
+
+équipe de 4 aléatoire
