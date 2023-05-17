@@ -66,4 +66,22 @@ Séance 5 - Organisation juridictionnelle
 	Section 1 - L'ordre juridirectionnel judiciaire
 		I - Présentation générale
 			A - la 1ere instance
-			B - l'appelœ
+			B - l'appele
+		
+		II - Les juridictions de 1ere instance
+			A - Les juridictions civiles
+			B - Les juridictions pénales
+
+		III - Les juridictions de 2nd degrès
+			L'appel est une voie de recours qui permet de déférer une décision rendu par un tribunal de première instance a une juridiction supérieur appellé cours d'appel. Elle rééxamine l'affaire en fait et en droit puis confirme ou infirme le jugement. Il est rendu par le tribunal de premier degrès. Il existe 35 cours d'appel et les cours d'appel son contitué de différentes chambres.
+
+		IV - La cassation
+			La cours de // a été instituer pour instaurer une unité dans l'application des règles de droits. Une seule cours a (Paris) siège dans l'ancainte du palais de justice. Composé de 6 chambres.
+
+	Section 2 - L'ordre juridictionnel administratif
+		- Les tribunaux administratif (TA) : Ils sont juge de droit commun. Ils sont compétant pour toutes les contestations dirigé contre les actes de décisions de l'administration. 
+		- La cours administrative d'appel (CAA) : 1989, ce sont les juridictions d'appel de doit commun. 8 en France. Les arrêts rendu par la cours CAA peuvent être frapper d'un recours en cassation. 
+		- Le conseil d'état (CE) : Le conseil d'état est la juridiction suprème dans l'ordre administratif. Il n'est pas seulement un juge mais aussi un conseillé de l'executif. Il est obligatoirement consulté par le gouv. sur les projets de lois et d'ordonances ansi que certain projets de décrets. Il emet des rapports et avis sur toutes les questions juridique de son ressort. 
+
+	Section 3 - Le tribunal des conflits
+		Il est chargé de trancher les conflits de compétences entre les deux ordres juridictionnels.
