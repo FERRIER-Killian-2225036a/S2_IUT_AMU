@@ -7,3 +7,26 @@ Dans diapo => Explication réalisation
 Rendu institutionnel donc pas de conneries
 
 Vidéo sur vie étudiante 1m30 
+
+Dossier de 10 pages maxi
+Présentation orale de 20 min max
+Dossier:
+	Page de garde+sommaire
+	Le corp:
+		Intro: objectif et contexte
+		1ere partie: cahier des charges
+		2eme partie: Real du projet+diagramme Gant
+	Normes: police (Times New Roman, 12 pts, interlignage simple, page A4 portrait, pagination)
+	Annexes
+
+Cahier des charges:
+	Expliquer le projet
+	Contexte 
+	parties prenantes 
+	Décrire projet:
+		Présentation générale du projet
+		Ou s'arrête le projet (Qu'au étudiant) périmètre travail
+		Quelles contraintes du projet
+	Objectif 
+	Qu'est-ce qu'on attend du projet
+	
