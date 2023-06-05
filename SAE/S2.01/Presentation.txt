@@ -1,0 +1,34 @@
+05/06/23
+Faire une app affiche et traite données sismiques
+Affichage carto : faire nos choix (appli de l'entrep de sceneBuilder)
+Afficher données tabulaire + filtre
++ faire des stats
+Proposer des idées au client (Mr Flouvat)
+Faire un dashboard avec les stats (séisme par mois, proba par ville, force moyenne sur zone selectionné) pour vision agrégé des données
+Résumé des 5000 données car non lisible
+Extraction des données sur Ametice csv
+Contraintes technique:
+	JavaFX 
+	commenter
+	documenter (javadoc)
+	test unitaire
+	utiliser Git
+	bien séparer IHM et code 
+
+Se reseigner:
+- Commencer a regarder harchitechture MVVM
+- Partie veille
+- Ergonomie d'IHM
+
+Livrables:
+- Code commenter + documenté
+- Rapport:
+		- Veille
+		- Digrame analyse + conception (UML + Diagramme de classe)
+		- Maquette graphique (mockups)
+		- Politique de test implémenté (ou on a pu tester et pas tester) + couverture des test
+		- Répartition boulot dans groupe (pas d'arrange répartition pourcentage = prof tranche)
+- Oral 10m avec 5m questions
+- Lien du Git
+
+Déposer 13 Juin avec soutenance 14 Juin
